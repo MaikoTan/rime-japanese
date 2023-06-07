@@ -1,6 +1,6 @@
 # rime-japanese
 
-AUR (Arch User Repository) package to install Japanese input method for rime.
+AUR (Arch User Repository) package to install [`rime-japanese`](https://github.com/gkovacs/rime-japanese), Japanese input method for rime.
 
 ## Install
 
