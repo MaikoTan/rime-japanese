@@ -2,6 +2,11 @@
 
 Nix package to install [`rime-japanese`](https://github.com/gkovacs/rime-japanese), Japanese input method for rime.
 
+> [!WARNING]
+> This package is deprecated, you can use [`rime-japanese`](https://search.nixos.org/packages?channel=unstable&show=rime-japanese&query=rime-japanese) from official `nixpkgs`.
+
+------
+
 > [!NOTE]
 > If you are interested in the AUR package, please refer to the [`aur` branch](https://github.com/MaikoTan/rime-japanese/tree/aur/).
 
